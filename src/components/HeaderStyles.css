@@ -1,0 +1,40 @@
+.header {
+    background-color: #ffffff;
+    padding: 1px;
+  }
+
+.header-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.company-name {
+  font-family: 'Helvetica Ne';
+  font-size: 50px;
+}
+
+  .logo {
+    width: auto;
+    height: 150px;
+    border-radius: 5px
+  }
+  
+.chatbot {
+  height: 130px;
+  border-radius: 5px;
+  float: right;
+}
+
+  .nav {
+    display: flex; 
+    justify-content: space-between;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #000000;
+    padding: 10px;
+  }
+  

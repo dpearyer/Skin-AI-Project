@@ -1,0 +1,43 @@
+.footer {
+    background-color: #f0f0f0; 
+    bottom: 0;
+    width: 100%;
+    margin-top: auto;
+    padding: 20px;
+  }
+  
+  .footer-container {
+    max-width: 1000px; 
+    margin: 0 auto;
+  }
+  
+  
+  .footer p {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+  }
+  
+  .footer a:hover {
+    color: #007bff;
+  }
+  
+
+  
+  
+  .nav {
+    display: grid;
+    grid-auto-flow: column;
+    grid-area: auto;
+    float: left;
+  }
+  .nav a {
+    text-decoration: none;
+    color: #333;
+    padding:10px;
+  }
